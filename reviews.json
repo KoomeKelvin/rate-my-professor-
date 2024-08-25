@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations. Challenging but fair exams."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Incredible knowledge of the field. Always willing to help students outside of class."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes moves too fast through complex topics."
+      },
+      {
+        "professor": "Prof. Robert Garcia",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject. Makes historical events come alive."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Excellent at breaking down complex concepts. Great lab instructor."
+      },
+      {
+        "professor": "Prof. David Wilson",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Very intelligent but struggles to explain concepts at a beginner level."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Thought-provoking lectures. Encourages class participation and discussion."
+      },
+      {
+        "professor": "Prof. James Brown",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Knowledgeable but can be dry at times. Assignments are challenging."
+      },
+      {
+        "professor": "Dr. Maria Rodriguez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Inspiring teacher. Relates course material to real-world issues effectively."
+      },
+      {
+        "professor": "Prof. Thomas Wright",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Passionate about literature. Provides insightful analysis of texts."
+      },
+      {
+        "professor": "Dr. Rebecca Foster",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Engaging lecturer. Organizes interesting field trips and hands-on projects."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Knowledgeable but can be biased in discussions. Grading is fair."
+      },
+      {
+        "professor": "Dr. Sophia Kim",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Vast knowledge of art periods. Lectures are accompanied by excellent visuals."
+      },
+      {
+        "professor": "Prof. Daniel Martinez",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Challenges students to think critically. Facilitates great class discussions."
+      },
+      {
+        "professor": "Dr. Laura Taylor",
+        "subject": "Geology",
+        "stars": 3,
+        "review": "Knows the subject well but can be disorganized in lecture presentations."
+      },
+      {
+        "professor": "Prof. Steven Adams",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Brings real-world experience to the classroom. Practical assignments."
+      },
+      {
+        "professor": "Dr. Olivia Watson",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Fascinating lectures. Encourages students to conduct original research."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Music Theory",
+        "stars": 2,
+        "review": "Highly skilled musician but struggles to teach effectively to non-music majors."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Clear explanations of complex language concepts. Engaging class activities."
+      },
+      {
+        "professor": "Prof. Andrew Nelson",
+        "subject": "Astronomy",
+        "stars": 5,
+        "review": "Passionate about space exploration. Organizes stargazing events for students."
+      }
+    ]
+  }
